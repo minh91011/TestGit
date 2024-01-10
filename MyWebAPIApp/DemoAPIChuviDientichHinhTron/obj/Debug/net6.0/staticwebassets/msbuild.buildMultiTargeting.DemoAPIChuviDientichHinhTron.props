@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoAPIChuviDientichHinhTron.props" />
+</Project>

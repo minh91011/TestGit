@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tdlKG/VTz3TYUyVIGadXwfa1JHP8OsOG2cDQrMWt2Ac=",
+  "Source": "Excercise2_FrontEnd",
+  "BasePath": "_content/Excercise2_FrontEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Excercise2_FrontEnd\\wwwroot",
+      "Source": "Excercise2_FrontEnd",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\Excercise2_FrontEnd\\wwwroot\\",
+      "BasePath": "_content/Excercise2_FrontEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\Excercise2_FrontEnd\\wwwroot\\index.html",
+      "SourceId": "Excercise2_FrontEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\Excercise2_FrontEnd\\wwwroot\\",
+      "BasePath": "_content/Excercise2_FrontEnd",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

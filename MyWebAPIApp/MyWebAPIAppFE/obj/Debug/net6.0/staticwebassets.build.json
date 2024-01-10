@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "4TiX13DYAuQLAfhJpIxurflYm/8aTc4YYcRZ2JOeQto=",
+  "Source": "MyWebAPIAppFE",
+  "BasePath": "_content/MyWebAPIAppFE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebAPIAppFE\\wwwroot",
+      "Source": "MyWebAPIAppFE",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\MyWebAPIAppFE\\wwwroot\\",
+      "BasePath": "_content/MyWebAPIAppFE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\MyWebAPIAppFE\\wwwroot\\index.html",
+      "SourceId": "MyWebAPIAppFE",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\MyWebAPIAppFE\\wwwroot\\",
+      "BasePath": "_content/MyWebAPIAppFE",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

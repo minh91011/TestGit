@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+            font-family: 'Arial', sans-serif;
+        }
+
+        #calculator-container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        form {
+            padding: 10px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #ffffff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+
+            button:hover {
+                border: 3px black solid;
+            }
+
+        .result {
+            display: flex;
+        }
+
+            .result div {
+                margin-right: 20px;
+            }
+    </style>
+</head>
+<body>
+    <div id="calculator-container">
+        <form id="calculator-form">
+            <label for="radius">Bán kính:</label>
+            <input type="number" id="radius" name="radius" required>
+
+            <button type="button" onclick="calculateArea()">Tính diện tích</button>
+            <button type="button" onclick="calculateCircumference()">Tính chu vi</button>
+            <button type="button" onclick="drawCircle()">Vẽ hình</button>
+        </form>
+        <div class="result">
+            <div>Area: <span class="area" id="areaResult">0</span></div>
+            <div>Perimeter: <span class="perimeter" id="circumferenceResult">0</span></div>
+        </div>
+    </div>
+    <script>
+        function calculateArea() {
+            const radius = document.getElementById('radius').value;
+            if (radius <= 0 || isNaN(radius)) {
+                alert('Bán kính phải là một số dương.');
+                return;
+            }
+            fetch(`https://localhost:7004/api/Circle/radius?radius=`+radius)
+                .then(response => {
+                    if (response.status === 400) {
+                        throw new Error('Sai bán kính.');
+                    }
+                    if (!response.ok) {
+                        throw new Error('Có lỗi xảy ra khi gọi API.');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    document.getElementById('areaResult').textContent = `${data.area}`;
+                })
+                .catch(error => {
+                    alert(error.message);
+                    console.error('Fetch Error:', error);
+                });
+        }
+
+        function calculateCircumference() {
+            const radius = document.getElementById('radius').value;
+            if (radius <= 0 || isNaN(radius)) {
+                alert('Bán kính phải là một số dương.');
+                return;
+            }
+            fetch(`https://localhost:7004/api/Circle/radius?radius=`+radius)
+                .then(response => {
+                    if (response.status === 400) {
+                        throw new Error('Sai bán kính.');
+                    }
+                    if (!response.ok) {
+                        throw new Error('Có lỗi xảy ra khi gọi API.');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    console.log(data);
+                    document.getElementById('circumferenceResult').textContent = `${data.perimeter}`;
+                })
+                .catch(error => {
+                    alert(error.message);
+                    console.error('Fetch Error:', error);
+                });
+        }
+    </script>
+</body>
+</html>

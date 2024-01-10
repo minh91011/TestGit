@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\Excercise2_FrontEnd\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Excercise2_FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Excercise2_FrontEnd.props",
+      "PackagePath": "build\\Excercise2_FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Excercise2_FrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\Excercise2_FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Excercise2_FrontEnd.props",
+      "PackagePath": "buildTransitive\\Excercise2_FrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "wYhbJI9W7mnUAIIqzozp9z0rgm9UZ+8uiAZlS/o796g=",
+  "Source": "CircleCaculateFE",
+  "BasePath": "_content/CircleCaculateFE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CircleCaculateFE\\wwwroot",
+      "Source": "CircleCaculateFE",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\CircleCaculateFE\\wwwroot\\",
+      "BasePath": "_content/CircleCaculateFE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\CircleCaculateFE\\wwwroot\\index.html",
+      "SourceId": "CircleCaculateFE",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FU\\Semester 8\\PRN231\\MyWebAPIApp\\CircleCaculateFE\\wwwroot\\",
+      "BasePath": "_content/CircleCaculateFE",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

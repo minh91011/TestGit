@@ -1,0 +1,101 @@
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\appsettings.Development.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\appsettings.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.exe
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.deps.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.runtimeconfig.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.pdb
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.AssemblyReference.cache
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.AssemblyInfoInputs.cache
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.AssemblyInfo.cs
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.CoreCompileInputs.cache
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.MvcApplicationPartsAssemblyInfo.cs
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.MvcApplicationPartsAssemblyInfo.cache
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.MyWebAPIApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyWebAPIApp.props
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyWebAPIApp.props
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyWebAPIApp.props
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\scopedcss\bundle\MyWebAPIApp.styles.css
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.CopyComplete
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\refint\MyWebAPIApp.dll
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.pdb
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.genruntimeconfig.cache
+D:\kỳ 7\tài liệu PRN221\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\ref\MyWebAPIApp.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\appsettings.Development.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\appsettings.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.exe
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.deps.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.runtimeconfig.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\MyWebAPIApp.pdb
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.AssemblyReference.cache
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.AssemblyInfoInputs.cache
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.AssemblyInfo.cs
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.CoreCompileInputs.cache
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.MvcApplicationPartsAssemblyInfo.cs
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.MvcApplicationPartsAssemblyInfo.cache
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.MyWebAPIApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyWebAPIApp.props
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyWebAPIApp.props
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyWebAPIApp.props
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\scopedcss\bundle\MyWebAPIApp.styles.css
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.csproj.CopyComplete
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\refint\MyWebAPIApp.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.pdb
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\MyWebAPIApp.genruntimeconfig.cache
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\obj\Debug\net6.0\ref\MyWebAPIApp.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Humanizer.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FU\Semester 8\PRN231\MyWebAPIApp\MyWebAPIApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
